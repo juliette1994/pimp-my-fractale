@@ -1,2 +1,2 @@
-# pimp-my-fractale
+# Pimp My Fractale
 PHP Project
